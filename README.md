@@ -62,4 +62,5 @@ Usage Tip: Combine slicers to drill into product performance by location and seg
 
 ## Dashboard  
 - <a href="https://github.com/akshya408/superstore/commit/65af7b2fa7830b032d6f9a768f4500ec82dd5a22">Dashboard</a>
+![dashboard picture ](https://github.com/user-attachments/assets/2190b42a-7a89-49c9-b7a5-a5591212b0fe)
 
