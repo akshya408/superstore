@@ -1,6 +1,6 @@
  # Superstore Sales Performance Dashboard
-  Slide Sections Overview
-1️⃣ ##Objective
+  
+1️⃣ Objective
 “To analyze sales, profit, customer segments, and regional performance for strategic business decisions.”
 
 2️⃣ KPIs Summary (Top Cards)
