@@ -1,9 +1,9 @@
  # Superstore Sales Performance Dashboard
   Slide Sections Overview
-##1️⃣ Objective
+1️⃣ ##Objective
 “To analyze sales, profit, customer segments, and regional performance for strategic business decisions.”
 
-##2️⃣ KPIs Summary (Top Cards)
+2️⃣ KPIs Summary (Top Cards)
   Total Sales – 2.30M
 
   Total Profit – 286.40K
@@ -14,7 +14,7 @@
 
 Insight: Overall positive sales trend, with noticeable regional and segment-based variances.
 
-##3️⃣ Key Insights (Data Stories)
+3️⃣ Key Insights (Data Stories)
   Sales & Profit by Category
 Technology leads in sales & profit.
 
@@ -40,7 +40,7 @@ Corporate segment drives high average order value.
 
 Consumer segment has the highest volume.
 
-##4️⃣ Interactive Filters Available
+4️⃣ Interactive Filters Available
   Date Range
 
   Category & Sub-Category
@@ -51,7 +51,7 @@ Consumer segment has the highest volume.
 
 Usage Tip: Combine slicers to drill into product performance by location and segment.
 
-##5️ Recommended Actions
+5️ Recommended Actions
   Focus marketing on Technology & Corporate Segment.
 
   Investigate low-profit products in Office Supplies.
